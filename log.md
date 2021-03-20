@@ -9,9 +9,9 @@
 * Finished the Codecademy course "Learn Python: Inheritance and Polymorphism".
 
 **Thoughts**
-Although I understand Markdown is supposed to be simplistic, the inability to use multiple spaces while formatting text is rather frustrating.
+* Although I understand Markdown is supposed to be simplistic, the inability to use multiple spaces while formatting text is rather frustrating.
 
 **Link to work**
-[CMMC Assessment Tool's README.md](https://github.com/StingzLD/CMMC_Assessment_Tool/blob/master/README.md)
-[Learn Python: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes)
+* [CMMC Assessment Tool's README.md](https://github.com/StingzLD/CMMC_Assessment_Tool/blob/master/README.md)
+* [Learn Python: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes)
 
