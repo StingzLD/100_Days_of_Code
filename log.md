@@ -25,5 +25,5 @@
 * The reason for finding additional tutorials and resetting the Codecademy lesson is because it simply was not clicking last night. I was able to complete the lesson by following the examples in the instructions, but there were parts that my tired brain was just not comprehending. Now that I am going through everything with a fresh brain, everything is clicking.
 
 **Link to work**
-* [Code from Codecademy lesson](https://github.com/StingzLD/Codecademy/tree/master/Python3/10.Classes)
+* [Code from Codecademy lesson](https://github.com/StingzLD/Codecademy/tree/master/Python3/10.Classes/Inheritance_and_Polymorphism)
 
