@@ -27,3 +27,14 @@
 **Link to work**
 * [Code from Codecademy lesson](https://github.com/StingzLD/Codecademy/tree/master/Python3/10.Classes/Inheritance_and_Polymorphism)
 
+### Day 1.5: March 21, 2021
+
+**Today's Progress**
+* See "Thoughts"
+
+**Thoughts**
+* Decided to spend time researching more about OOP to deepend my understanding before continuing on.
+
+**Link to work**
+* No coding performed today.
+
