@@ -13,13 +13,13 @@
 
 **Link to work**
 * [CMMC Assessment Tool's README.md](https://github.com/StingzLD/CMMC_Assessment_Tool/blob/master/README.md)
-* [Learn Python: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes)
+* [Learn Python 3: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes)
 
 ### Day 1: March 20, 2021
 
 **Today's Progress**
 * Walked through Object Oriented Programming tutorials on [Real Python](https://realpython.com/python3-object-oriented-programming/) and [W3Schools](https://www.w3schools.com/python/python_classes.asp), and went through their exercises. 
-* Reset and went through the [Learn Python: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes) Codecadmey lesson again.
+* Reset and went through the [Learn Python 3: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes) Codecadmey lesson again.
 
 **Thoughts**
 * The reason for finding additional tutorials and resetting the Codecademy lesson is because it simply was not clicking last night. I was able to complete the lesson by following the examples in the instructions, but there were parts that my tired brain was just not comprehending. Now that I am going through everything with a fresh brain, everything is clicking.
@@ -37,4 +37,15 @@
 
 **Link to work**
 * No coding performed today.
+
+### Day 2: March 22, 2021
+
+**Today's Progress**
+* Completed the [Learn Pythong 3: Classes](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes) Codecademy project.
+
+**Thoughts**
+* I seem to be in a limbo state where I understand the concept, I can create class structures and objects based off of them without issue, but I still have that feeling that I am missing something. Based off of this project, I really have no reason to feel that way. Perhaps it is because I am still being fed the information like the class names, parameters, etc., so I have not actually had to create everything from scratch-scratch yet, even though I was able to write all of the code in this project without assistance.
+
+**Link to work**
+* [Code from Codecamedy project](https://github.com/StingzLD/Codecademy/blob/master/Python3/10.Classes/Project/BastaFazoolin.py)
 
