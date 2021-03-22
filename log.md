@@ -33,7 +33,7 @@
 * See "Thoughts"
 
 **Thoughts**
-* Decided to spend time researching more about OOP to deepend my understanding before continuing on.
+* Decided to spend time researching more about OOP to deepen my understanding before continuing on.
 
 **Link to work**
 * No coding performed today.
