@@ -49,3 +49,13 @@
 **Link to work**
 * [Code from Codecamedy project](https://github.com/StingzLD/Codecademy/blob/master/Python3/10.Classes/Project/BastaFazoolin.py)
 
+### Day 3: March 23, 2021
+
+**Today's Progress**
+* Worked through most of the [Learn Pythong 3: Functions Arguments](https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-function-arguments) Codecademy lesson.
+
+**Thoughts**
+* A lot of this lesson seemed to be just repeat material from earlier in the course with a twist, until the later lessons. There was not a lot of writing code, though, mainly just reading the explanations in the lessons (a lot of text to read in these lessons), going through the code, and find things to change. Not necessarily a bad thing, per se, but I was expecting the final lesson of the course to be much more jam packed with coding.
+
+**Link to work**
+* [Code from Codecamedy lesson](https://github.com/StingzLD/Codecademy/tree/master/Python3/11.Function_Arguments)
