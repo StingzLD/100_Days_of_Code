@@ -19,7 +19,7 @@
 
 **Today's Progress**
 * Walked through Object Oriented Programming tutorials on [Real Python](https://realpython.com/python3-object-oriented-programming/) and [W3Schools](https://www.w3schools.com/python/python_classes.asp), and went through their exercises. 
-* Reset and went through the [Learn Python 3: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes) Codecadmey lesson again.
+* Reset and went through the [Learn Python 3: Inheritance and Polymorphism](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-classes) Codecademy lesson again.
 
 **Thoughts**
 * The reason for finding additional tutorials and resetting the Codecademy lesson is because it simply was not clicking last night. I was able to complete the lesson by following the examples in the instructions, but there were parts that my tired brain was just not comprehending. Now that I am going through everything with a fresh brain, everything is clicking.
