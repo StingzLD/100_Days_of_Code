@@ -76,3 +76,14 @@
 * [Code from Codecademy project](https://github.com/StingzLD/Codecademy/tree/master/Python3/11.Function_Arguments/Project)
 * [Certificate: Learn Python 3 Course](https://www.codecademy.com/profiles/stingzld/certificates/6c152bd262967f8c941c9707ed636bda)
 
+### Day 5: March 25, 2021
+
+**Today's Progress**
+* Completed the following [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) Code Challenges: Control Flow, Control Flow (Advanced), Lists, Lists (Advanced).
+
+**Thoughts**
+* After completing the course yesterday, I noticed that there were two new sections in the course: Python Code Challenges and Python Code Challenges II. Naturally, I decided to take these on! After all, who am I to turn down a challenge. I mean, that is exactly how I ended up doing the 100DaysOfCode challenge in the first place! Sadly, though, the challenges were not very challenging so far, even the "advanced" ones.  Granted, there is only so complicated control flow and manipulating lists can get within the context of the course, but they still seemed a bit too easy. Up next are challenges for loops and functions, so hopefully those be more of a brain teaser.
+
+**Link to work**
+* [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
+
