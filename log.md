@@ -87,3 +87,14 @@
 **Link to work**
 * [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
 
+### Day 6: March 26, 2021
+
+**Today's Progress**
+* Completed the following [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) Code Challenges: Loops, Loops (Advanced), Functions, and Functions (Advanced).
+
+**Thoughts**
+* Although most of the challenges were of the same difficulty (or lack thereof) as yesterday, there was one in the Loops (Advanced) that actually caused me to think about how I would go about doing it, as I had to recall the ways a certain function behaved that I have not used for a little while. Overall, though, it was good practice to refresh my brain on lessons learned earlier in the course that were not used much in later lessons.
+
+**Link to work**
+* [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
+
