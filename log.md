@@ -98,3 +98,14 @@
 **Link to work**
 * [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
 
+### Day 6.5: March 27, 2021
+
+**Today's Progress**
+* Watched a few videos from freeCodeCamp on YouTube.
+
+**Thoughts**
+* Due to some personal reasons, I was not in a mindset that would allow me to really focus on coding today. However, I did at least spend some time watching related videos.
+
+**Link to work**
+* None
+
