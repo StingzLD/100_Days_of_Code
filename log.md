@@ -109,3 +109,14 @@
 **Link to work**
 * None
 
+### Day 7: March 28, 2021
+
+**Today's Progress**
+* Completed the following [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) Code Challenges: Strings, Strings (Advanced).
+
+**Thoughts**
+* These challenges were a good refresher on functions I have not fully utilized since originally learning them.
+
+**Link to work**
+* [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
+
