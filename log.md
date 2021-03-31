@@ -120,3 +120,15 @@
 **Link to work**
 * [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
 
+### Day 8: March 30, 2021
+
+**Today's Progress**
+* Completed the remaining [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) Code Challenges: Dictionaries, Dictionaries (Advanced), Classes, Classes (Advanced).
+
+**Thoughts**
+* The remaining challenges were pretty low in difficulty, like the others, with the exception of Classes (Advanced). The only reason I say this, however, is because Codecademy had flaws in their instructions, so I had to figure out what exactly the tests were looking for then figure out how to change the code to reflect that. In that regard, it made it slightly more challenging, but it was also good practice in debugging using a test result.
+* I also had my first big issue with Git today. I work on multiple machines, and I have the repos cloned on all of them. Tonight, I made a commit without first pulling, which then showed the commit message as merging. Considering this is not what I wanted, I wanted to undo the commit. I found that to do this you have to do a "git reset --hard HEAD~1", which I did, but it did not undo the merge it created when I pulled everything down. I decided to run it again to get rid of that, as that was the only commit still showing up for today, and although it got rid of that merge, it actually got rid of the previous commit as well! Luckily, I backed up my files before doing anything, so I just put those back in and made a new commit, but now my commit history is missing a commit, which makes it look like I did nothing that day. Ugh... Lesson learned. BE CAUTIOUS WHEN DOING A HARD RESET!!!
+
+**Link to work**
+* [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
+
