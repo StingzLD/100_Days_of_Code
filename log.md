@@ -132,3 +132,14 @@
 **Link to work**
 * [Code from Codecademy challenges](https://github.com/StingzLD/Codecademy/tree/master/Python3/Code_Challenges)
 
+### Day 9: March 31, 2021
+
+**Today's Progress**
+* Completed [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/) on freeCodeCamp.
+
+**Thoughts**
+* Admittedly, this took me a bit to initally figure out, as I had to look up JS syntax on top of HelmetJS and BCrypt because I have not learned any of those yet. Nonetheless, I was able to successfully complete the challenges, which ended up being fairly easy once working with basic JS was no longer an issue. That being said, I am sure I will probably have to go back and look at the HelmetJS and BCrypt doucmentation in the future to refresh on how to configure and use the packages, but it is fairly straightforward once you have the information in front of you.
+
+**Link to work**
+* [My HelmetJS Repl](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/boilerplate-infosec)
+* [My Bcrypt Repl](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/boilerplate-bcrypt)
