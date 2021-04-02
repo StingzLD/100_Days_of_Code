@@ -145,3 +145,15 @@
 * [My HelmetJS Repl.it](https://replit.com/@StingzLD/boilerplate-bcrypt)
 * [My BCrypt Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/boilerplate-bcrypt)
 * [My BCrypt Repl.it](https://replit.com/@StingzLD/boilerplate-infosec)
+
+### Day 10: April 1, 2021
+
+**Today's Progress**
+* Completed the first three parts of [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security#python-for-penetration-testing) on freeCodeCamp.
+
+**Thoughts**
+* I really wish this would have been a little more in depth with the intro, as the videos dive you right on in, as if you already know what the functions and methods do. The video roughly explains the pieces we are using, but only at a very high level. There will definitely be more studying required to fully understand the socket library.
+
+**Link to work**
+* [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
+
