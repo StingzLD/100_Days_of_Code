@@ -69,7 +69,7 @@
 
 **Thoughts**
 * The rest of the Function Arguments' lessons taught some very good ways to process code, as well as minimize the amount of code needing to be written.
-* I am SO HAPPY that I have now completed the Learn Python 3 course from Codecademy!!! The question is, where do I want to go from here? I need to get work done on my CMMC Assessment Tool conversion side project, but there are also a couple of courses on freeCodeCamp that I want to pursue, specifically [Information Security](https://www.freecodecamp.org/learn/information-security/) and [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/). My current job is IT security, and I have been really wanting to get into using Python for scripting changes to the infrastructure, so that seems like the logical next step. What better way to build Python knowledge than while building tools to help with my job. On the flipside, I really want to start exploring data analysis with Numpy, Pandas, etc. Ultimately, I think both courses are going to be highly beneficial, as parsing through data collected in CSVs from multiple programs and making sense of it all is also a big part of my job.
+* I am SO HAPPY that I have now completed the Learn Python 3 course from Codecademy!!! The question is, where do I want to go from here? I need to get work done on my CMMC Assessment Tool conversion side project, but there are also a couple of courses on freeCodeCamp that I want to pursue, specifically [Information Security](https://www.freecodecamp.org/learn/information-security/) and [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/). My current job is IT security, and I have been really wanting to get into using Python for scripting changes to the infrastructure, so that seems like the logical next step. What better way to build Python knowledge than while building tools to help with my job. On the flipside, I really want to start exploring data analysis with NumPy, Pandas, etc. Ultimately, I think both courses are going to be highly beneficial, as parsing through data collected in CSVs from multiple programs and making sense of it all is also a big part of my job.
 
 **Link to work**
 * [Code from Codecademy lesson](https://github.com/StingzLD/Codecademy/tree/master/Python3/11.Function_Arguments/Lesson)
@@ -138,7 +138,7 @@
 * Completed [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/) on freeCodeCamp.
 
 **Thoughts**
-* Admittedly, this took me a bit to initally figure out, as I had to look up JS syntax on top of HelmetJS and BCrypt because I have not learned any of those yet. Nonetheless, I was able to successfully complete the challenges, which ended up being fairly easy once working with basic JS was no longer an issue. That being said, I am sure I will probably have to go back and look at the HelmetJS and BCrypt doucmentation in the future to refresh on how to configure and use the packages, but it is fairly straightforward once you have the information in front of you.
+* Admittedly, this took me a bit to initially figure out, as I had to look up JS syntax on top of HelmetJS and BCrypt because I have not learned any of those yet. Nonetheless, I was able to successfully complete the challenges, which ended up being fairly easy once working with basic JS was no longer an issue. That being said, I am sure I will probably have to go back and look at the HelmetJS and BCrypt documentation in the future to refresh on how to configure and use the packages, but it is fairly straightforward once you have the information in front of you.
 
 **Link to work**
 * [My HelmetJS Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/boilerplate-infosec)
@@ -156,4 +156,15 @@
 
 **Link to work**
 * [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
+
+### Day 11: April 5, 2021
+
+**Today's Progress**
+* Started learning more about sockets before continuing on with the pentesting course.
+
+**Thoughts**
+* After a very rough few days for personal reasons, I was very happy to get back to coding, only to run into issues when trying to run the Python scripts in the VS Code terminal. Depending on the type of terminal, it would either just open the code in a VS Code tab (or go into the tab if it was already open) or give me a 'Permission Denied' error. After spending way too much time looking for a solution, I just decided to reinstall Git, as that seemed to be the biggest issue (the one providing the permission error). After reinstalling Git and relaunching VS Code, I was able to run the scripts without issue. I am thinking the Windows Updates caused an issue with it, but I will never know for sure. Either way, I was finally able to test my two new scripts side-by-side in VS Code successfully.
+
+**Link to work**
+* [My Socket Programming Repo](https://github.com/StingzLD/Socket_Programming)
 
