@@ -168,9 +168,6 @@
 **Link to work**
 * [My Socket Programming Repo](https://github.com/StingzLD/Socket_Programming)
 
-**Link to work**
-* [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
-
 ### Day 12: April 6, 2021
 
 **Today's Progress**
