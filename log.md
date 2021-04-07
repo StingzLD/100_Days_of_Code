@@ -168,3 +168,17 @@
 **Link to work**
 * [My Socket Programming Repo](https://github.com/StingzLD/Socket_Programming)
 
+**Link to work**
+* [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
+
+### Day 12: April 6, 2021
+
+**Today's Progress**
+* Continued learning more about sockets in Python.
+
+**Thoughts**
+* Today I was learning about how to handle multiple connections, and although I did learn more, it only brought about even more questions because now I want to know everything there is to know about this new module used. This is why I have insomnia. I get so carried away with looking up this, which tangents to that and that and that and that, which splits off to all of those, and so forth. Time to real it back in to focus on sockets.
+
+**Link to work**
+* [My Socket Programming Repo](https://github.com/StingzLD/Socket_Programming)
+
