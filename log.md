@@ -179,3 +179,15 @@
 **Link to work**
 * [My Socket Programming Repo](https://github.com/StingzLD/Socket_Programming)
 
+### Day 13: April 7, 2021
+
+**Today's Progress**
+* Completed the Nmap Scanner lessons of [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security#python-for-penetration-testing) on freeCodeCamp.
+
+**Thoughts**
+* Seeing as there is a ton I still need to learn about sockets, I decided it was best to go back to the my freeCodeCamp projects. Today was developing a Nmap scanner, which of course had its fair share of hiccups. Although the video lesson made it seem like you just needed a single command (pip3 install python-nmap) to install the proper package, it ended up being a bit more than that. I kept getting error saying that nmap was not installed, and I could easily verify this because VS Code was not populating any of its modules. After a bit of research, I learned that Nmap itself also had to be installed (pip3 install nmap), as python-nmap referenced the module. Unfortunately, that was still throwing errors, and it took a random forum post to figure out why. Apparently, you have to install python-nmap as the user (pip3 install --user python-nmap). This finally allowed me to use the nmap module, but when running the script, it couldn't find what it needed in PATH. After reviewing the contents of PATH, the directory was indeed not there. I added directory location, but it was still giving the same error. It was only after I downloaded and installed Nmap directly from the website that it fully installed and populated PATH, then I had to reinstall python-nmap and restart the VS Code. Running the script was finally a success!
+* Like the last time I went through a lesson, there was a lot of information left to be discovered on your own, as we never really got to understand the underlying modules we were using. Because of this, I have more research to do, so I can actually understand exactly what is going when looking at the script, rather than the person in the video saying what it is doing.
+
+**Link to work**
+* [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
+
