@@ -191,3 +191,16 @@
 **Link to work**
 * [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
 
+### Day 13.5: April 8, 2021
+
+**Today's Progress**
+* Completed the [Intro to Object-Oriented Programming (OOP) in Python](https://realpython.com/courses/intro-object-oriented-programming-oop-python/) course on Real Python.
+* Completed the [Supercharge Your Classes With Python super()](https://realpython.com/courses/python-super/) course on Real Python.
+* Started the [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/) course on Real Python.
+
+**Thoughts**
+* Today was day two after getting my first COVID vaccine shot, and I ended up with a pretty bad headache that put me down for the count. Even though I know I would not be able to focus on writing code, I still made sure to at least do something related. I ended up back on Real Python to go over a few more tutorials to reinforce what I had previously learned at Codecademy.
+
+**Link to work**
+* None
+
