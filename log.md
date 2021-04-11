@@ -215,3 +215,14 @@
 **Link to work**
 * [Inheritance and Composition Repo](https://github.com/StingzLD/Real_Python/tree/main/Inheritance_and_Composition)
 
+### Day 15: April 10, 2021
+
+**Today's Progress**
+* Finished the last of the [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/) course on Real Python.
+
+**Thoughts**
+* I learned a lot from this course, as it covered a lot of material that was never even touched on Codecademy while initially learning Python. This course will definitely be one that I revisit once I start building programs from scratch to refresh on the lessons learned, as there is a lot of good info here.
+
+**Link to work**
+* [Inheritance and Composition Repo](https://github.com/StingzLD/Real_Python/tree/main/Inheritance_and_Composition)
+
