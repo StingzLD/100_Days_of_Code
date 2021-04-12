@@ -226,3 +226,16 @@
 **Link to work**
 * [Inheritance and Composition Repo](https://github.com/StingzLD/Real_Python/tree/main/Inheritance_and_Composition)
 
+### Day 16: April 11, 2021
+
+**Today's Progress**
+* Completed the remaining lessons of [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security#python-for-penetration-testing) on freeCodeCamp.
+* Started working on the [Port Scanner](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner) project on freeCodeCamp.
+
+**Thoughts**
+* After going through all of the pentesting lessons, two things are pretty clear. One, it takes very little code to perform tasks that I thought would be incredibly more involved. Two, there is a ton I still need to learn about the sockets module, and I will need to study that in depth at some point after this challenge is complete. Otherwise, I will be stuck studying for a few days, maybe weeks, instead of actually coding.
+
+**Link to work**
+* [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
+* [Port Scanner](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/Port_Scanner)
+
