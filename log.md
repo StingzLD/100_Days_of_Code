@@ -237,5 +237,16 @@
 
 **Link to work**
 * [My PenTesting Repo](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/PenTesting)
-* [Port Scanner](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/Port_Scanner)
+* [Port Scanner](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/Projects/Port_Scanner)
+
+### Day 17: April 12, 2021
+
+**Today's Progress**
+* Continued working on the [Port Scanner](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner) project on freeCodeCamp.
+
+**Thoughts**
+* I was able to get the majority of the port scanner completed tonight, which required me researching how to do certain things in Python like validating a URL or IP. Although this scanner should have been completed tonight, my brain kept running in circles when it came to what should be a simple task of creating the formatted verbose text. Since I was just spinning my wheels, I decided it would be best to get some shuteye, give my brain a break, and pick it back up in the morning with a fresh perspective.
+
+**Link to work**
+* [Port Scanner](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/Projects/Port_Scanner)
 
