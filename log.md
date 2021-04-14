@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 18: April 13, 2021
+
+**Today's Progress**
+* Continued working on the [Port Scanner](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner) project on freeCodeCamp.
+
+**Thoughts**
+* Today was particularly challenging. I noticed that none of the calls in main.py actually had errors, so it was not testing the error handling. I decided to make both a domain and IP invalid to test, and for some reason, my error handling was only taking one path instead of actually changing depending on whether it is a domain or IP. I ended up finding that this is because it kept returning a socket.gaierror for both cases, and there seemed to be no good way to differentiate between the domain and IP. I tried a whole slew of different ways to check to see if the domain or IP was valid, using pretty much every solution I could find online, but they still kept returning the same socket.gaierror. After messing with this for about five hours, I finally found solution to what I thought was going to be a simple solution of differentiating between a domain and IP. Let me just say that this simple problem has a very simple solution, and I would probably feel ashamed if I was actually seasoned in non-embedded Python, but it literally came down to a single line of code that split the target (variable holding either the domain or IP) with a period, then evaluated if the last item in the list was a digit or not with the isdigit method. Not knowing about this, I clearly had no idea that was an option, but holy moly is this is lifesaver in this application! I immediately put it to use, tested it, and my error handling now worked flawlessly.
+
+**Link to work**
+* [Port Scanner](https://github.com/StingzLD/freeCodeCamp/tree/master/Information_Security/Projects/Port_Scanner)
+
 ### Day 17: April 12, 2021
 
 **Today's Progress**
