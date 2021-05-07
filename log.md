@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Status Update: May 7, 2021
+
+As you have noticed, it has been some time since my last commit, however it was not from a simple abandonment of the challenge from being too busy, not wanting to continue, etc. Instead, the past few weeks have been pretty rough with the sudden passing of my father-in-law, and as a result, this challenge took a backseat for obvious reasons. That being said, I feel like it is time to get my head back in the game and continue on with this challenge.
+
+Reviewing where I left off, I believe I need to take a step back and look at different paths. Although the cybersecurity stuff was what I really wanted to get into, there is a lot of cybersecurity related items that are not coding related, and I do not want to start down that path in the middle of this challenge. Perhaps I will start a separate 100 Days challenge for myself later that is strictly cybersecurity related. With that in mind, there is still a lot that I have to learn about everyday Python programming, which will also make working on those cybersecurity tasks easier. There are also more relevant tasks I want to learn that would be more beneficial in the more immediate future (prospective jobs), so I want to start pursuing those instead. What exactly this will be is something I am going to work on figuring out today, then start working on that path tomorrow.
+
+Happy Coding, Everyone!
+
 ### Day 18: April 13, 2021
 
 **Today's Progress**
