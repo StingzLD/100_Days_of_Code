@@ -1,7 +1,18 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
-### Status Update: May 7, 2021
+### Day 19: May 10, 2021
+
+**Today's Progress**
+* Started working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) on Codecademy.
+
+**Thoughts**
+* Seeing as I have already completed the Learn the Command Line, Learn Git, and Learn Python3 courses, the vast majority of the CS101 part of the career path has already been completed. This left me with only a few additional items to go through, with one of them being a project utilizing all three of those courses. The only portion left of CS101 is the final project, an off-platform portfolio project called Python Terminal Game, which I will begin working on tomorrow.
+
+**Link to work**
+* [Computer Science Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path)
+
+### Status Update: May 9, 2021
 
 As you have noticed, it has been some time since my last commit, however it was not from a simple abandonment of the challenge from being too busy, not wanting to continue, etc. Instead, the past few weeks have been pretty rough with the sudden passing of my father-in-law, and as a result, this challenge took a backseat for obvious reasons. That being said, I feel like it is time to get my head back in the game and continue on with this challenge.
 
