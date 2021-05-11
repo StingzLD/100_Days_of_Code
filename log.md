@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 20: May 11, 2021
+
+**Today's Progress**
+* Started working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+
+**Thoughts**
+* For the Python Terminal Game final project, I decided to create a terminal version of Connect Four. The main reason behind this is because I wanted to choose something that would not take weeks to program, so I could move on to the new content sooner, but would still provide a little challenge. Turns out this little game is not quite as easy as I was thinking it was going to be, which is actually quite nice. It is not terribly difficult by any means, but I am finding that the more I code it, the more checks and error handling I will need to put in place in order for it to operate smoothly. Overall, though, it has been a lot of fun trial and error thus far. I am hoping to finish it by tomorrow, now that I have the main framework in place.
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 19: May 10, 2021
 
 **Today's Progress**
