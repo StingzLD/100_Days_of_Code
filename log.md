@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 20.5: May 12, 2021
+
+**Today's Progress**
+* Continued working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+
+**Thoughts**
+* Today I definitely went down a rabbit hole of tangents while working on the project, and I had a blast doing so. Although I did not get a ton of coding done on the project today, thus why I considered this to be a half day, I did learn some cool new tricks that I should be able to apply to the project when I resume working on it again tomorrow.
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 20: May 11, 2021
 
 **Today's Progress**
