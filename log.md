@@ -1,13 +1,24 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 22: May 20, 2021
+
+**Today's Progress**
+* Continued working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+
+**Thoughts**
+* I am super glad to be back programming again, as this past week was a bit of a roller coaster (I had some medical issues arise, and my body did not respond well to the treatment at all). To start the day off, I actually got to go through the process of reviewing and merging a pull request, which I have not had a chance to do before now, so that was a good process to learn. My biggest success of today was finally getting that choice validation to work correctly. After really thinking about it and talking about it out loud to a friend, I ended up figuring out exactly what I needed to before they even had a chance to reply. It was such a great epiphany moment! In the process of doing that, I was able to clean up a lot of the code, so now it is a lot easier to follow. All that is left to do now is create the check_win function and figure out one final nit-picky thing that is bugging me (if you enter a value that is not a digit, the program throws an error and exits).
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 21: May 13, 2021
 
 **Today's Progress**
 * Continued working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
 
 **Thoughts**
-* If there was ever a chasing your tail in programming, I think today was that day. What started out as being on the right path and making good progress ended in complete confusion as to why the program is behaving the way it is. I started by completing the choice validation to ensure there was no way that you could enter an incorrect value, and if you did, it would prompt as to what it was and ask you to enter a new value. This all worked flawlessly when testing it with hard set grid values, so it was time to implement the code that would find the next open row for the column selected, then place the piece according to the current player's number. This would work great unless a 0 was selected (valid options are 1-7) or a column was full. If 0 was selected, it would prompt accordingly, but no matter what column you chose next, it would also place your piece in the last column. This to me means that the column value is being set to -1, but I cannot tell where or why it is happening as of yet. If the column was full and you chose a column that was not full, it would give a TypeError saying it must be an integer or slice, not a NoneType, and exit the program. This really has confused me, as I am unsure where the value is being converted from an integer to None. Looks like tomorrow is going to be full of bug hunting!
+* If there was ever a chasing your tail in programming, I think today was that day. What started out as being on the right path and making good progress ended in complete confusion as to why the program is behaving the way it is. I started by completing the choice validation to ensure there was no way that you could enter an incorrect value, and if you did, it would prompt as to what it was and ask you to enter a new value. This all worked flawlessly when testing it with hard set grid values, so it was time to implement the code that would find the next open row for the column selected, then place the piece according to the current player's number. This would work great unless a 0 was selected (valid options are 1-7) or a column was full. If 0 was selected, it would prompt accordingly, but no matter what column you chose next, it would always place your piece in the last column. This to me means that the column value is being set to -1, but I cannot tell where or why it is happening as of yet. If the column was full and you chose a column that was not full, it would give a TypeError saying it must be an integer or slice, not a NoneType, and exit the program. This really has confused me, as I am unsure where the value is being converted from an integer to None. Looks like tomorrow is going to be full of bug hunting!
 
 **Link to work**
 * [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
@@ -45,7 +56,7 @@
 **Link to work**
 * [Computer Science Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path)
 
-### Status Update: May 9, 2021
+### Status Update
 
 As you have noticed, it has been some time since my last commit, however it was not from a simple abandonment of the challenge from being too busy, not wanting to continue, etc. Instead, the past few weeks have been pretty rough with the sudden passing of my father-in-law, and as a result, this challenge took a backseat for obvious reasons. That being said, I feel like it is time to get my head back in the game and continue on with this challenge.
 
