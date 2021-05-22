@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 24: May 22, 2021
+
+**Today's Progress**
+* Continued working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+
+**Thoughts**
+* Another successful day working on the project. I was able to complete the second win check, which is if there are four in a row in a column. I then started working on the win check for diagonals, which is a bit more complicated. While doing so, though, I realized I had no check in place for if the grid was completely full, meaning no more pieces could be placed resulting in a tie. I put this check in place, albeit not after spending way too much trying to figure out what was going wrong with it. Lo and behold, I made the silly mistake of looping through the list and not the range length of the list. After I figured that out, everything was working perfectly. Now all that is left is to finish the diagonal win check!
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 23: May 21, 2021
 
 **Today's Progress**
