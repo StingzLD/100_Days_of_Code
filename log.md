@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 23: May 21, 2021
+
+**Today's Progress**
+* Continued working on the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+
+**Thoughts**
+* Today was a good day full of problem solving to figure out the best solution for a problem. While working on the check_win function, I went through a few different versions of the first piece, and the latest one now works perfectly. This includes a new function that is used inside of it, as well, and that piece will be used in the rest of the check_win function that has yet to be written. Now that I have the main system down for how I want this function to operate, I should hopefully be able to complete the final two parts of the check tomorrow.
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 22: May 20, 2021
 
 **Today's Progress**
