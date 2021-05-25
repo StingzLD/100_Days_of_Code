@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 26: May 24, 2021
+
+**Today's Progress**
+* Started the CS102 course of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* I am very excited to be starting the CS102 course, as this course is all about Data Structures and Algorithms. This will certainly push my data handling, as well as programming, abilities to the next level. Today was learning and coding Nodes, as well as starting to learn about Linked Lists.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 25: May 23, 2021
 
 **Today's Progress**
-* Finished the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) CS101 Final Project.
+* Finished the CS101 Final Project for the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 **Thoughts**
 * It is complete! Creating the win check for the diagonals was definitely the most complicated part of this game, and although it took me a minute to figure out how to do it efficiently, it is working flawlessly now. I also added in error handling for the inputs because if an integer was not entered, it would simply exit the program. Now it is set to reprompt, and if an integer is not entered again, that player forfeits the game, and the other player wins! This was definitely a fun little project.
