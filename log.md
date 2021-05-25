@@ -7,7 +7,7 @@
 * Started the CS102 course of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 **Thoughts**
-* I am very excited to be starting the CS102 course, as this course is all about Data Structures and Algorithms. This will certainly push my data handling, as well as programming, abilities to the next level. Today was learning and coding Nodes, as well as starting to learn about Linked Lists.
+* I am very excited to be starting the CS102 course, as this course is all about Data Structures and Algorithms. This will certainly push my data handling, as well as programming, abilities to the next level. Today was learning about and coding Nodes and Linked Lists. I am still not exactly sure how this is necessarily helpful compared to a normal list, but I am sure I will find out soon enough.
 
 **Link to work**
 * [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
