@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 27: May 25, 2021
+
+**Today's Progress**
+* Reworked the CS101 Final Project.
+* Finished the Linked Lists lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* What I love so much about programming is constant learning of new ways to implement ideas. In this instance, I am talking about the use of f-strings. Now, I already learned that you could use an f-string to use variables directly in your strings, however I did not know you could do even more than that! My friend looked over the code said I should implement f-strings, and I was like "I already did where I could!". Enter the learning. Wow, I did not know you could use it to input practically anything! This is a total game changer. Between that and cleaning up some of the more repetitive things in the script, I can comfortably say that this game's script is looking pretty good now! I know I need to do something about the repetitiveness in the diagonal win checks, but I will have to spend some time thinking about how to do that, since it involves changes in the operators.
+* Although I am still in the same boat as I was yesterday about linked lists (not exactly sure how these are helpful yet, in comparison to just normal lists), I did learn a bit about how to manipulate the lists to get some basic info out of them. I know there is still a lot to learn about these, so I am sure I will figure out the benefits of them soon enough. For now, I will just keep on trucking and soaking up all the information I can, so I will be fully ready once I do understand the benefits of using them.
+
+**Link to work**
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 26: May 24, 2021
 
 **Today's Progress**
