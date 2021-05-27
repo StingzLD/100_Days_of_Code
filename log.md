@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 28: May 26, 2021
+
+**Today's Progress**
+* Started the Double Linked Lists lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Okay, now we are getting somewhere with these types of lists. A regular Linked List did not make very much sense to me from a practicality standpoint, as with my current knowledge, I cannot foresee any use for such a list over just a normal list. Double Linked Lists, however, seem very useful to me. I was only able to complete about two-thirds of the lessons today, but I did enjoy these much more than just a single linked list. Being able to easily navigate both forwards and backwards in the list is a huge plus. Sure, there is a little more overhead in terms of reconstructing the node links when adding/removing a node, but that overhead is all done in the methods themselves, greatly outweighing any of the tediousness of navigating through a regular Linked List.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 27: May 25, 2021
 
 **Today's Progress**
