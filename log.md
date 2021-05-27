@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 29: May 27, 2021
+
+**Today's Progress**
+* Finished the Double Linked Lists lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+* Cleaned up the CS101 Final Project.
+
+**Thoughts**
+* After finishing the lessons for Double Linked Lists, I can see a few real world use cases for them. In looking at the syllabus, I am very curious to see how all of this gets integrated into the upcoming lessons.
+* I received some feedback on my terminal game in regards to PEP 8, so I went through and started cleaning the code up. This was mainly in regards to lines between functions and the spaces in my new_grid function, but also some tiny ones like using "is not None" vs using an equality operator like "!= None". I had no idea the latter was not really the correct way of doing that, even though the code worked just fine. I also decided to change some of the variables inside of the functions that shadowed global variables, even though you could still follow the code in the functions with ease. In doing all of this, I discovered linting using PyLint, and that was very nice to stumble upon. When playing with that, I also realized that these colored blocks that appear next to my code were actually clickable! That was a very handy thing to learn, and I will absolutely be making use of those in the future. Between all these little changes I have been making over the past week, I can comfortably say that code is now looking really nice. There are still some changes that could be made, but those changes would completely change the main structure and resulting in rewriting a lot of the program. It is probably best to just leave it as is, then introduce those types of changes on the next project.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+* [Python Terminal Game Repo](https://github.com/StingzLD/Python_Terminal_Game)
+
 ### Day 28: May 26, 2021
 
 **Today's Progress**
