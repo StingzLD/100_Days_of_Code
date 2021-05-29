@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 30: May 28, 2021
+
+**Today's Progress**
+* Finished the Queues lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Queues are definitely a good example of using a single linked list, however I am still failing to see the benefit of all the extra work required to create, link, and remove nodes when you can easily make a queue with a standard list, add to the queue with the built-in append function, you don't have to link anything because lists are automatically indexed, and removal of the first item in the list can be done with the built-in pop or del functions. You also don't have to create methods for specific things like checking the size of the queue because you already have the built-in len function you can use on the list or peeking at the first item because you can just get the value of the first index by calling it. There must be some reason why linked lists are valuable, however, since there is a lot of focus on them in this course. I am sure the reason is I am not seeing it is because these queues are very basic to teach them, so perhaps I just need to go search for a more complicated queue to see the real benefit of them.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 29: May 27, 2021
 
 **Today's Progress**
