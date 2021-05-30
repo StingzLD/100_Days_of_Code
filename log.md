@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 31: May 29, 2021
+
+**Today's Progress**
+* Started the Stacks lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Today I learned about Stacks, which are pretty straightforward. I still do not see the benefit over just using a normal list (see notes from yesterday), but I am having no issues working with them so far. I am currently about halfway done completing the Towers of Hanoi project.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 30: May 28, 2021
 
 **Today's Progress**
