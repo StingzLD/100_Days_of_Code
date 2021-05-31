@@ -4,7 +4,7 @@
 ### Day 32: May 30, 2021
 
 **Today's Progress**
-* Completed the Stacks project and started the Tables lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+* Completed the Stacks project and started the Hash Maps lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 **Thoughts**
 * Completing the rest of the Stacks project (Towers od Hanoi game) really made me think about my Python Terminal Game (Connect Four) and how I could have coded it differently to utilize OOP. I may end up going back and rewriting it using OOP, but if I do that, then I will also want to introduce the AI to the mix. This sounds like a good use for a Dev branch of the repo. This will have to be done in free time, though, so it may be a while before I get to it, as I start my MIT Introduction to Computer Science class on Wednesday.
