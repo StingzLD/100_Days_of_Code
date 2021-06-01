@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 34: June 1, 2021
+
+**Today's Progress**
+* Completed the Hash Maps lessons and project in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Learning about and coding Hash Maps is the first time in this series of lists where I actually feel like I could benefit from using it in comparison to just a normal list, dictionary, etc. I cannot think of a good example of how I would utilize it off the top of my head, but hashing in general is a concept I am very familiar with because of my IT background, and utilizing that for indexing a database to find items quicker than iterating than huge lists just makes sense to me. We shall see how much deeper we go with these during the course, or if we are moving on altogether, but I would like to keep using these to get more comfortable with coding them.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 33: May 31, 2021
 
 **Today's Progress**
