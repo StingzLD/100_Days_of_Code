@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 33: May 31, 2021
+
+**Today's Progress**
+* Continued the Hash Maps lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Today involved a lot of conceptual learning about Hash Maps and the different methods of creating them. On the coding side, I was only able to complete the creation of the HashMap class today, but with the conceptual part out of the way, tomorrow's learning should be mostly about coding.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 32: May 30, 2021
 
 **Today's Progress**
