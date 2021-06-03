@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 35: June 2, 2021
+
+**Today's Progress**
+* Started [MIT Course 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), completing all of Lecture 1's assignments.
+* Started the Recursion lessons and project in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* As if I was not already challenging myself enough, I have officially started MIT course 6.00.1x: Introduction to Computer Science and Programming in Python. One bonus is that everything I have learned so far is pretty much going to be reiterated throughout this course, so it will be nice to have concepts that I already know in the class, while at the same time pushing beyond the limits of Codecademy's education. This is MIT, afterall, and it has already proven that it is going to make me think well outside the box. Its emphasis on Computer Science is really what is going to push my coding to the next level, and I cannot wait.
+* Even though I spent today in the class, I still felt the need to progress at least a little in my Computer Science studies at Codecademy. Continuing on, I started learning about Recursion. This is another topic that I am very unclear on in regards to how it is actually going to be useful in the real world. Computationally, it is slower than iterating through a list because of its additional overhead, and I currently see no benefit of why I would not just use a list. There is clearly a missing piece to this puzzle, otherwise why would I be learning about recursion, linked lists, etc. if they were truly not any better than just using a list? I assume that is the downside to platforms like Codecademy who are simply teaching concepts, but only dive so deep. Luckily, I have the MIT course to take what I am learning at Codecademy to the next level.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 34: June 1, 2021
 
 **Today's Progress**
