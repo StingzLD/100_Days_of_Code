@@ -1,10 +1,25 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 37: June 11, 2021
+
+**Today's Progress**
+* Completed Lecture 3 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Now we are starting to get deeper into concepts like algorithms and the math behind floats. This is what I have been looking forward to, and I am glad it is happening early on in the course. I am super excited to see how deep this rabbit hole goes.
+
+**Link to work**
+* [Private Repo for Classwork]()
+
+### Day 36.5: June 4-10, 2021
+
+I decided to lump all these days into one half day entry, as there was not any actual coding happening. Instead, I was going through a new Python book that I had ordered from Real Python. This was actually quite beneficial, as the book went deeper into topics than my lessons had. I only barely scratched the surface of the book, but I know it will definitely be a good reference if I have any questions about how something works.
+
 ### Day 36: June 3, 2021
 
 **Today's Progress**
-* Completed Lecture 2 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Completed Lecture 2 and Problem Set 1 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 **Thoughts**
 * Although the class is teaching parts of Python that I already know, the actual Computer Science behind the coding is being explained in much greater detail in this course. The textbook recommended for this course is a great resource for all kinds of Computer Science goodness. All that is left for Unit 1 is to complete the unit's Problem Set, which accounts for 40% of my grade.
