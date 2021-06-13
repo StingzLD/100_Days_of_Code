@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 38: June 12, 2021
+
+**Today's Progress**
+* Completed Lecture 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* I am thoroughly enjoying this class so far. Sure, it is basically going over the same fundamentals of Python that I learned elsewhere, however the focus is not actually the coding itself. The focus is on the actual concepts behind what you are trying to write code for. Instead of "Let's go code XYZ, while I give a general overview of what you are doing means", the class is saying "Here is the problem we want to solve, here are some conceptual ways we could go about it, here is a way we can code this using Python, but what does it actually mean? What could we do differently to change the outcome? Why would that work?" It is definitely hitting all the Computer Science points that I was hoping it would, and since it is MIT, I would expect no less.
+
+Now, this isn't to say that how I learned the language initially was bad. The platform I used/still use (Codecademy) utilizes a very hands on approach to learning a language. However, it definitely holds your hand through the entire process, and although that can be helpful at times, I feel like it does more harm than good. The first time I learned Python a few years ago, I hardly retained anything at all. Once the course was done, I still couldn't code anything because I didn't really understand how to go about doing it. Sure, I could tell you what the actual syntax was, but that doesn't help much if you are having issues creating it from scratch. In fact, even going through the new Python 3 course years later, I still had issues retaining the information because it is very much a "Step 1: Do this. Step 2: Do this." process, and it leaves all the problem solving at the door. But that is where we learn the most. Being challenged and getting things wrong the first time, trying to figure out why it was wrong, then fixing those issues is the best way to learn. With the MIT course, it is very much about learning the core concepts of how and why everything works before code even gets involved. This is highly beneficial to me. Maybe it is because I already know the language well enough to do the basics without looking anything up, but even with that being the case, learning the how and why is what will allow me to take ideas from my head and put them into code.
+
+**Link to work**
+* [Private Repo for Classwork]()
+
 ### Day 37: June 11, 2021
 
 **Today's Progress**
