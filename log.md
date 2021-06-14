@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 40: June 14, 2021
+
+**Today's Progress**
+* Completed the final set of Recursion exercises and quizzes in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* Recursion is starting to grow on me, even though I still only see a limited use for it. I am hoping the upcoming Code Challenge for Recursion will actually be a challenge (the previous challenges were not much more difficult than the actual lessons).
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 39: June 13, 2021
 
 **Today's Progress**
-* Completed the Recursion lessons and project in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+* Completed the first set of Recursion exercises and quizzes in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 **Thoughts**
 * I am still on the fence about Recursion, but after reading more about it on [Real Python](https://realpython.com/python-recursion/), I am starting to see how it could be useful in specific situations. It still seems to have a limited use, but it is good to know for those times where it can prove beneficial.
@@ -55,7 +66,7 @@ I decided to lump all these days into one half day entry, as there was not any a
 
 **Today's Progress**
 * Started [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), completing all of Lecture 1's assignments.
-* Started the Recursion lessons and project in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+* Started the Recursion lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 **Thoughts**
 * As if I was not already challenging myself enough, I have officially started MIT course 6.00.1x: Introduction to Computer Science and Programming in Python. One bonus is that everything I have learned so far is pretty much going to be reiterated throughout this course, so it will be nice to have concepts that I already know in the class, while at the same time pushing beyond the limits of Codecademy's education. This is MIT, afterall, and it has already proven that it is going to make me think well outside the box. Its emphasis on Computer Science is really what is going to push my coding to the next level, and I cannot wait.
