@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 42: June 16, 2021
+
+**Today's Progress**
+* Completed Lecture 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* As mentioned before, this course is definitely taking what I learned to the next level, and I love it. I do believe that learning the basics of the language prior to taking the class has helped immensely, as it is certainly much faster paced than Codecademy was. What is great is that I am now just barely ahead in my learning on Codecademy than where I am on MIT, so it the concepts are still fresh in my mind, and I can just build on it with the MIT course. For example, we just finished learning about recursion in the MIT course, and I was able to push my ability to think in that manner with its more challenging exercises.
+
+**Link to work**
+* [Private Repo for Classwork]()
+
 ### Day 41: June 15, 2021
 
 **Today's Progress**
@@ -38,7 +49,7 @@
 ### Day 38: June 12, 2021
 
 **Today's Progress**
-* Completed Lecture 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Started Lecture 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 **Thoughts**
 * I am thoroughly enjoying this class so far. Sure, it is basically going over the same fundamentals of Python that I learned elsewhere, however the focus is not actually the coding itself. The focus is on the actual concepts behind what you are trying to write code for. Instead of "Let's go code XYZ, while I give a general overview of what you are doing means", the class is saying "Here is the problem we want to solve, here are some conceptual ways we could go about it, here is a way we can code this using Python, but what does it actually mean? What could we do differently to change the outcome? Why would that work?" It is definitely hitting all the Computer Science points that I was hoping it would, and since it is MIT, I would expect no less.
