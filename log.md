@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 43: June 17, 2021
+
+**Today's Progress**
+* Completed Problem Set 2 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Admittedly, I had a decent amount of trouble working through the last problem of this set. In the end, it was mainly my brain just trying to overcomplicate the entire problem, but it did make for a good lesson in just walking away, taking a small break, then coming back to reevaluate the problem. After doing so, I realized I could have made my code a more efficient in the previous problems, from which this code was built upon, by solving the problems a different way. By reworking the previous problems' code, I was no longer trying to make inefficient code work, which allowed me to more easily picture the solution for the final problem.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%202%20-%20Simple%20Programs)
+
 ### Day 42: June 16, 2021
 
 **Today's Progress**
@@ -10,7 +21,7 @@
 * As mentioned before, this course is definitely taking what I learned to the next level, and I love it. I do believe that learning the basics of the language prior to taking the class has helped immensely, as it is certainly much faster paced than Codecademy was. What is great is that I am now just barely ahead in my learning on Codecademy than where I am on MIT, so it the concepts are still fresh in my mind, and I can just build on it with the MIT course. For example, we just finished learning about recursion in the MIT course, and I was able to push my ability to think in that manner with its more challenging exercises.
 
 **Link to work**
-* [Private Repo for Classwork]()
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%202%20-%20Simple%20Programs)
 
 ### Day 41: June 15, 2021
 
@@ -57,7 +68,7 @@
   Now, this isn't to say that how I learned the language initially was bad. The platform I used/still use (Codecademy) utilizes a very hands on approach to learning a language. However, it definitely holds your hand through the entire process, and although that can be helpful at times, I feel like it does more harm than good. The first time I learned Python a few years ago, I hardly retained anything at all. Once the course was done, I still couldn't code anything because I didn't really understand how to go about doing it. Sure, I could tell you what the actual syntax was, but that doesn't help much if you are having issues creating it from scratch. In fact, even going through the new Python 3 course years later, I still had issues retaining the information because it is very much a "Step 1: Do this. Step 2: Do this." process, and it leaves all the problem solving at the door. But that is where we learn the most. Being challenged and getting things wrong the first time, trying to figure out why it was wrong, then fixing those issues is the best way to learn. With the MIT course, it is very much about learning the core concepts of how and why everything works before code even gets involved. This is highly beneficial to me. Maybe it is because I already know the language well enough to do the basics without looking anything up, but even with that being the case, learning the how and why is what will allow me to take ideas from my head and put them into code.
 
 **Link to work**
-* [Private Repo for Classwork]()
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%202%20-%20Simple%20Programs)
 
 ### Day 37: June 11, 2021
 
@@ -68,7 +79,7 @@
 * Now we are starting to get deeper into concepts like algorithms and the math behind floats. This is what I have been looking forward to, and I am glad it is happening early on in the course. I am super excited to see how deep this rabbit hole goes.
 
 **Link to work**
-* [Private Repo for Classwork]()
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%202%20-%20Simple%20Programs)
 
 ### Day 36.5: June 4-10, 2021
 
@@ -83,7 +94,7 @@ I decided to lump all these days into one half day entry, as there was not any a
 * Although the class is teaching parts of Python that I already know, the actual Computer Science behind the coding is being explained in much greater detail in this course. The textbook recommended for this course is a great resource for all kinds of Computer Science goodness. All that is left for Unit 1 is to complete the unit's Problem Set, which accounts for 40% of my grade.
 
 **Link to work**
-* [Private Repo for Classwork]()
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%201%20-%20Python%20Basics)
 
 ### Day 35: June 2, 2021
 
@@ -96,7 +107,7 @@ I decided to lump all these days into one half day entry, as there was not any a
 * Even though I spent today in the class, I still felt the need to progress at least a little in my Computer Science studies at Codecademy. Continuing on, I started learning about Recursion. This is another topic that I am very unclear on in regards to how it is actually going to be useful in the real world. Computationally, it is slower than iterating through a list because of its additional overhead, and I currently see no benefit of why I would not just use a list. There is clearly a missing piece to this puzzle, otherwise why would I be learning about recursion, linked lists, etc. if they were truly not any better than just using a list? I assume that is the downside to platforms like Codecademy who are simply teaching concepts, but only dive so deep. Luckily, I have the MIT course to take what I am learning at Codecademy to the next level.
 
 **Link to work**
-* [Private Repo for Classwork]()
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%201%20-%20Python%20Basics)
 * [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
 
 ### Day 34: June 1, 2021
