@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than their just being gaps in the log. ****
 
+### Day 44: June 18, 2021
+
+**Today's Progress**
+* Completed Lecture 5 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Lecture 5 had a lot of good information in, especially when it comes to mutability. That is one thing that had been mentioned in passing in some other course I took, but it was only to say something along the lines of "Immutable objects cannot be changed, whereas mutable objects can." Well, that is fairly bland, but at the time, I did not think there was really any more to it than that. Boy was I wrong. I mean, yes, that is ultimately what it means, but what that does not detail is just how important that can be. The biggest part of this is how the objects are stored/referenced in memory, especially when setting variables based on other variables, and knowing that how they each behave is completely eye-opening.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%203%20-%20Structured%20Types)
+
 ### Day 43: June 17, 2021
 
 **Today's Progress**
