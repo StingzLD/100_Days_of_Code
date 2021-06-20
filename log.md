@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 46: June 20, 2021
+
+**Today's Progress**
+* Completed Problem Set 3 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This Problem Set was a ton of fun. It was creating a hangman game, which ultimately was pretty easy. However, it became far more difficult once we were challenged to rewrite all of the functions as one liners, some of them in more than one way. It was definitely hard because they hinted at what functions they wanted you to use, only we had never used or even heard of those before. The challenge then transformed into researching what the functions were, how to use them, then combining those with other aspects learned throughout the course to generate the one line versions. I definitely scratched my head more than a few times, but once I realized exactly what was going on, it was pretty straightforward.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%203%20-%20Structured%20Types)
+
 ### Day 45: June 19, 2021
 
 **Today's Progress**
