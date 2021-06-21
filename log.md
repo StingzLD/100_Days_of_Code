@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 47: June 21, 2021
+
+**Today's Progress**
+* Completed the entire [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython).
+
+**Thoughts**
+* Today, I decided to go on a little tangent. My programming background is mostly embedded programming, and I was working on some robotics with the kids over the weekend, but I wanted to use Python to program the electronics. Since I already have a Circuit Playground Express (I have only ever programmed it using MakeCode), and Codecademy has a course on CircuitPython, I figured this was a great way to use my current Python knowledge for embedded programming. Although the course was fairly simplistic and quick, as well as buggy, I was able to learn the basics of what I needed to in order to progress further with my own projects. Overall, it was a lot of fun, and the drum machine project at the end was a huge hit with the kiddos.
+
+**Link to work**
+* [CircuitPython Repo](https://github.com/StingzLD/Codecademy/tree/master/CircuitPython)
+
 ### Day 46: June 20, 2021
 
 **Today's Progress**
