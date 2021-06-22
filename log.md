@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 48: June 22, 2021
+
+**Today's Progress**
+* Revamped the 808 Drum Machine.
+
+**Thoughts**
+* The 808 Drum Machine from the class was fun, but it definitely had some issues. The capacitive touch pads were way too sensitive, so much so that some of the sounds activated constantly without even touching the fruit, and it was not very visually appealing. After doing some research, I was able to find a way to light up the pixels without the use of the CPX module (it had a conflict with another module that was already coded), and I was able to find a way to calibrate the sensors using the touchio library that I was already using. After reworking the code, I was able to have a very fun drum machine. I even decided to take a video of it and put it up on YouTube (link in the repo).
+
+**Link to work**
+* [808 Drum Machine Repo](https://github.com/StingzLD/808_Drum_Machine)
+
 ### Day 47: June 21, 2021
 
 **Today's Progress**
