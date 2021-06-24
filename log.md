@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 49: June 23, 2021
+
+**Today's Progress**
+* Completed Sandbox Problem Set 1 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This Problem Set was very reminiscent of a Problem Set from a previous Unit. It was still good practice completing the problems, though, as the only way to solidify a concept is to continue practicing it.
+* I also ended up diving more into CircuitPython libraries and documentation, however I was only messing around by manipulating demo code, so I do not feel like that is worthy enough to be put into a separate repo, as the code was 99% not my own.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Sandbox)
+
 ### Day 48: June 22, 2021
 
 **Today's Progress**
