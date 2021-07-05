@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 50: July 5, 2021
+
+**Today's Progress**
+* Completed the Midterm of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* There were definitely some good challenges in the Midterm, although my biggest challenge was battling with the autograder. It had me trying to figure out what I was doing wrong on my last question because it kept saying it was incorrect, even though I tested it like crazy in my IDE before submitting. I eventually figured out that my debugging print statement was what was actually causing the issue, not the actual code or the result of the code, so I was chasing a problem with my code that didn't even exist. That being said, it did allow me to come up with multiple ways to solve the same problem, so it was still beneficial in the long run.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Midterm)
+
+### Day 49.5: June 24, 2021 - July 4, 2021
+
+This was an incredibly busy week and a half between the wife being out of town for a week (solo parenting is so much fun), job interviews and landing a new job (YAY!), and studying for the MIT midterm. Even so, I was still learning more about Python, just not doing much in the way of practicing coding. One topic I was heavily invested in was [Advanced Computer Vision](https://youtu.be/01sAkU_NvOY) using Python and [MediaPipe](https://google.github.io/mediapipe/) to track your hand, face, and body via your computer's camera. This is going to be super fun to start coding!
+
 ### Day 49: June 23, 2021
 
 **Today's Progress**
