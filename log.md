@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 51: July 6, 2021
+
+**Today's Progress**
+* Completed Lecture 7 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This Lecture is all about testing and debugging, and it was very insightful. I already knew a fair amount about it, as I have done it in the past with embedded programming, but this went more in depth on the conceptual side of things. I will certainly be keeping what I learned in mind, as I move forward with writing code.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%204%20-%20Good%20Programming%20Practices)
+
 ### Day 50: July 5, 2021
 
 **Today's Progress**
