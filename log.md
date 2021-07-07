@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 52: July 7, 2021
+
+**Today's Progress**
+* Completed Lecture 8 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* For me, personally, this has been the most beneficial lecture of the entire course up to this point. I already knew about error handling, as I have implemented that in previous projects, however I never even thought to use it as a control flow mechanism in such a way as the course did. For example, I always simply used it as a "This error happened, now do/retry this", not a "I am going to write my code specifically so when a common and expected error pops up, i.e. a missing field in a list of lists, it will manipulate the data accordingly and continue processing everything else." It is a completely different way of thinking about error handling, and I am super excited about trying it out on my own projects. Between that and learning about assertions, I now have a whole new section added to my playbook.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%204%20-%20Good%20Programming%20Practices)
+
 ### Day 51: July 6, 2021
 
 **Today's Progress**
