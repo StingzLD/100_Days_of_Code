@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 53: July 8, 2021
+
+**Today's Progress**
+* Started Problem Set 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Started developing a PyCharm theme.
+
+**Thoughts**
+* Problem Set 4 is another game that I have to build, only this time it is a Scrabble/Word with Friends type game. The instructions for this game are much more in depth than the hangman style game, so I am definitely going to be spending a little bit of time creating and testing all of these functions.
+* Going off on a little tangent, I decided to start using PyCharm with this project instead of Spyder, as I know programming via PyCharm is a highly sought after skill. I have to say, though, that right off the bat, I am not impressed. I find the interface to be not very user-friendly. For example, the Python Console is completely useless if you dock it on the right side of the program instead of on the bottom (default), but having it below the editor tab cuts off where you are coding, so it's kind of a no-win solution there. The default theme is really not pleasing at all, so writing code in this program does not make me feel happy in the slightest. Because of this, I ended up trying a bunch of pre-made themes, but most of them were either way too far out there (your eyes would hate you after only ten minutes of coding with them) or they just had font colors that were too conflicting (the part you need to focus on is not what your eyes are drawn to, so you are constantly forcing your eyes to focus elsewhere, which will end up in a migraine in no time). So what is the solution? Create my own theme! Sadly, this is much easier said than done. I wish it was as simple as just editing a JSON that already lives on your machine, but alas, it is not. Besides, I need a theme that I can use across all my devices, and the only way to do that is to create an official one and place it on the marketplace. Needless to say, I went down a huge rabbit hole of installing packages, plugins, cloning a template repo, modifying lots of files, and I am still barely started. Needless to say, this will be a project in itself, but it will awesome when it is finished!
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%204%20-%20Good%20Programming%20Practices)
+* [PyCharm Theme Repo](https://github.com/StingzLD/PyCharm_Spyder_Theme)
+
 ### Day 52: July 7, 2021
 
 **Today's Progress**
