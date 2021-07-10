@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 54: July 9, 2021
+
+**Today's Progress**
+* Continued Problem Set 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Part A of this problem set was... problematic, to say the least. My code was running just fine on its own, however the test file that we were to run against the code had an issue. I was testing my code every step of the way, running both the script itself and the test against it as I went. All I needed was to add a single line of code to finish a certain function, but no matter how I wrote it (I tried four different ways), it always errored out when running the test, even though the script always ran fine by itself. Eventually I decided to run the function in Python Tutor, and it worked no problem. I then just input into the autograder to see what would happen, and it said it was correct. That means the test file that was written was messed up, and I was chasing down a problem for over an hour that never even existed. Silver lining is I now know multiple ways to write that one line of code!
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%204%20-%20Good%20Programming%20Practices)
+
 ### Day 53: July 8, 2021
 
 **Today's Progress**
