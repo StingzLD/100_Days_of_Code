@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 55: July 10, 2021
+
+**Today's Progress**
+* Finished Problem Set 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Part B of Problem Set 4 ran much smoother than Part A, mostly due to there not being a problematic test file running against my code like last time. This part introduced a computer AI to the game, which was pretty fun, especially considering I wanted to add an AI element to the terminal game I created earlier in this challenge. Overall, though, I had a blast with this project. It was unique in that it was not just having you write code to make a game work, but it was designed to force you to write the code a specific way in order for it to work as intended. This made me rewrite what I was doing a few times before I finally got it nailed down, but it also expanded my capabilities and thought process on how to better resolve these issues in the future.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%204%20-%20Good%20Programming%20Practices)
+
 ### Day 54: July 9, 2021
 
 **Today's Progress**
