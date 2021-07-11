@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 56: July 11, 2021
+
+**Today's Progress**
+* Finished Lecture 9 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This lecture's exercises were definitely the most challenging of them all, up to this point. I had never known about OOP up until a few months ago, back when I initially learned about classes through Codecademy. This style of programming is far different than my embedded programming experience, and it is still something I have to force my mindset into, as it does not come naturally to me yet. There are certainly parts of it where I can code through it without thinking twice, but the more complicated methods and interacting with other classes still feels like I am missing that one "AH HAH!!!" moment to make it all click. I am hoping that this moment will reveal itself between the next lecture and the problem set for this unit. We shall see!
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%205%20-%20Object%20Oriented%20Programming)
+
 ### Day 55: July 10, 2021
 
 **Today's Progress**
