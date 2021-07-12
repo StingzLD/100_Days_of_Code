@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 57: July 12, 2021
+
+**Today's Progress**
+* Finished Lecture 10 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This lecture continued down the OOP road by creating an entire hierarchy of classes that used other classes inside of them, which needless to say became very involved. The exercises that followed certainly caused you to think critically to fully understand what was being asked of you and how to properly implement it. Then once those were done, generators came into the mix, and creating what I thought would be a simple prime number generator turned out to be much harder to conceptualize than I was originally thinking. Of course, it would have been much easier if I had known about for/else before I started working on the assignment, but seeing as I had no idea that a for loop could have an else block, the possibility of using it was non-existent in my mind. But alas, I know about it now, and I will certainly remember that trick for future projects.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%205%20-%20Object%20Oriented%20Programming)
+
 ### Day 56: July 11, 2021
 
 **Today's Progress**
