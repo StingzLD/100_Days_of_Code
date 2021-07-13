@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 58: July 13, 2021
+
+**Today's Progress**
+* Started Problem Set 5 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Problem Set 5 consists of encrypting/decrypting a message using the Caesar Cipher. To do this,  we are to write a series of classes and methods to perform these operations. Now, I have already done a Caesar Cipher challenge before, so I know roughly how I want to code this, however I have never done it with classes. While defining the first class, it was clear how different an approach this really is compared to just writing and calling functions. It will be interesting to compare the two sets of code side-by-side when I am done with this to see just how similar and different they truly are.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%205%20-%20Object%20Oriented%20Programming)
+
 ### Day 57: July 12, 2021
 
 **Today's Progress**
-* Finished Lecture 10 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Completed Lecture 10 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 **Thoughts**
 * This lecture continued down the OOP road by creating an entire hierarchy of classes that used other classes inside of them, which needless to say became very involved. The exercises that followed certainly caused you to think critically to fully understand what was being asked of you and how to properly implement it. Then once those were done, generators came into the mix, and creating what I thought would be a simple prime number generator turned out to be much harder to conceptualize than I was originally thinking. Of course, it would have been much easier if I had known about for/else before I started working on the assignment, but seeing as I had no idea that a for loop could have an else block, the possibility of using it was non-existent in my mind. But alas, I know about it now, and I will certainly remember that trick for future projects.
@@ -15,7 +26,7 @@
 ### Day 56: July 11, 2021
 
 **Today's Progress**
-* Finished Lecture 9 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Completed Lecture 9 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 **Thoughts**
 * This lecture's exercises were definitely the most challenging of them all, up to this point. I had never known about OOP up until a few months ago, back when I initially learned about classes through Codecademy. This style of programming is far different than my embedded programming experience, and it is still something I have to force my mindset into, as it does not come naturally to me yet. There are certainly parts of it where I can code through it without thinking twice, but the more complicated methods and interacting with other classes still feels like I am missing that one "AH HAH!!!" moment to make it all click. I am hoping that this moment will reveal itself between the next lecture and the problem set for this unit. We shall see!
@@ -26,7 +37,7 @@
 ### Day 55: July 10, 2021
 
 **Today's Progress**
-* Finished Problem Set 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Completed Problem Set 4 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 **Thoughts**
 * Part B of Problem Set 4 ran much smoother than Part A, mostly due to there not being a problematic test file running against my code like last time. This part introduced a computer AI to the game, which was pretty fun, especially considering I wanted to add an AI element to the terminal game I created earlier in this challenge. Overall, though, I had a blast with this project. It was unique in that it was not just having you write code to make a game work, but it was designed to force you to write the code a specific way in order for it to work as intended. This made me rewrite what I was doing a few times before I finally got it nailed down, but it also expanded my capabilities and thought process on how to better resolve these issues in the future.
