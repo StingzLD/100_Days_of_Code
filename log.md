@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 59: July 14, 2021
+
+**Today's Progress**
+* Continued Problem Set 5 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Today, I was able to complete Parts 2 & 3 of the problem set, which entailed creating the new PlaintextMessage class, as well as the CiphertextMessage class. Both of these were subclasses of the Message class, with the former encrypting the message and the latter decrypting a message using multiple ciphers via brute force. Tomorrow will be the final piece of this problem set, then comes the final unit of the class!
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%205%20-%20Object%20Oriented%20Programming)
+
 ### Day 58: July 13, 2021
 
 **Today's Progress**
