@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 60: July 15, 2021
+
+**Today's Progress**
+* Completed Problem Set 5 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+* Started Lecture 11 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* I should have just completed the problem set yesterday, as the final assignment was literally five lines of code, but c'est la vie. That just means I got to start Unit 6 earlier than anticipated! Lecture 11 is about computational complexity and making your programs efficient. This goes back to the topic I admittedly kind of glazed over on Codecademy, but it looks like I need to pull in the reigns and truly learn this.
+
+**Link to work**
+* [Private Repo for Classwork (Problem Set 5)](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%205%20-%20Object%20Oriented%20Programming)
+* [Private Repo for Classwork (Lecture 11)](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
+
 ### Day 59: July 14, 2021
 
 **Today's Progress**
