@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 63: July 20, 2021
+
+**Today's Progress**
+* Completed Lecture 12 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* This lecture was slightly easier than the last, but only because it had less to do with figuring out the exact type of complexity and more on comparing different styles of sorting algorithms. Looking at two functions and figuring out which is going to be more efficient is relatively easy for me, but for some reason the Big-O notation is just not clicking. We shall see how the final problem set for this course turns out.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
+
 ### Day 62: July 19, 2021
 
 **Today's Progress**
