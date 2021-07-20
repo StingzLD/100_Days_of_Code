@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 62: July 19, 2021
+
+**Today's Progress**
+* Started Lecture 12 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* Between the last lecture being so intense, finishing my first week at a new company, and having a lot of work to do at home, I decided to take the weekend off from programming to keep myself from burning out. Continuing with my classwork, I started Lecture 12. So far, this has basically been an extension of the previous lecture, while at the same time diving deeper into searching and sorting algorithms. There is still some reference to complexity, as introduced in the previous lecture, but it is nowhere near as in depth. Nonetheless, I will still be continuing my research on complexity after the class has finished.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
+
 ### Day 61: July 16, 2021
 
 **Today's Progress**
@@ -10,7 +21,7 @@
 * Holy moly, guacamole. This was BY FAR the hardest lecture. In fact, this is the only one that I still do not fully comprehend, even though I was able to answer the exercise questions correctly. This is also the only topic that I have had to research for a while, but something is still not clicking. Sure, I can put two and two together, and I can tell you what each Big-O value goes to what, but I am the kind of person that really likes to understand why something is the way it is, not just take it at face value. It is this level of understanding that has me completely confused right now, and I will definitely need to spend some more time, outside of the class and this challenge, researching to get my answer.
 
 **Link to work**
-* [Private Repo for Classwork (Lecture 11)](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
 
 ### Day 60: July 15, 2021
 
