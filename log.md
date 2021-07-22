@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 64: July 21, 2021
+
+**Today's Progress**
+* Completed Problem Set 6 of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* I am left feeling very conflicted about having completed the last problem set of the course. On the one hand, it is nice to finally be done with this unit because it was by far the hardest part of anything I learned in programming up to this point. By that, I mean everything up to this point, not just this class. On the other hand, I still do not fully grasp algorithmic complexity, as was evident by this problem set. This is the only set that I did not get a 100% on (got 89%), and that is because it is still not clicking. I even asked my best friend, who is in school and just went through all of this, for clarification. Unfortunately, he is just as confused as I am about it. I decided to ask my other friend who has been a professional developer for years now (specifically Python), and even he is admitting that he does not fully grasp it. Sure, I feel better that I am not alone in this, but this feeling is something I just cannot continue with. The one thing I detest more than anything in the world is not knowing how to do something, especially when that something was taught to you in the classroom. I absolutely will be continuing my research this topic between now and the final exam, which I believe is the end of next week.
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%206%20-%20Algorithmic%20Complexity)
+
 ### Day 63: July 20, 2021
 
 **Today's Progress**
