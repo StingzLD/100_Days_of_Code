@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 66: July 23, 2021
+
+**Today's Progress**
+* Completed the Meraki Syslog Server Script.
+
+**Thoughts**
+* Today I took a bit of a tangent to work on some scripting for work. What started out as just helping someone with a script turned into a full day of coding. We are venturing into automating our Meraki deployments, and to do so we are utilizing a PowerShell module called [PSMeraki](https://github.com/sanderkl/PSMeraki). Having never touched this before, I had a lot of learning ahead of me, but I was not anticipating on fixing the module itself. While writing the script, I kept running into issues with functions that were supposed to be public not being found. Eventually, I found out why, and after applying the fix locally, brought the issue up on the module's GitHub page. That led to me creating my own fork of the repo, so I could submit the changes in my first ever Pull Request (I have been on the receiving side before, but never on the submitting side). Once I got that resolved, I was able to complete the script, which went through many, many iterations of more and more efficient code. Unfortunately, I did not make a repo before I started the work, but that was mainly due to the fact that I was testing the script with hard set values that should remain private. It would have been bad news if I accidentally put that information out there publicly! Regardless, the final script is live, and I cannot wait to start working on the rest of the automation scripts.
+
+**Link to work**
+* [Meraki Syslog Server Script](https://github.com/StingzLD/Powershell_Scripts/blob/master/PSMeraki/setSyslogServers.ps1)
+* [My Forked PSMeraki Repo](https://github.com/StingzLD/PSMeraki/tree/psd-patch-1)
+
 ### Day 65: July 22, 2021
 
 **Today's Progress**
