@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 67: July 24, 2021
+
+**Today's Progress**
+* Started additional research into time complexity.
+* Turned into working on search algorithms.
+
+**Thoughts**
+* TL;DR Went to dive deeper into time complexity, but instead dove head first into the rocky coast of Binary Search Algorithms. Time complexity research will continue tomorrow.
+
++ Phew! What a day. I had started researching more about time complexity, and then I discovered a lesson about it on [freeCodeCamp](https://www.freecodecamp.org/news/time-complexity-of-algorithms/). Towards the beginning of the lesson, they give links to two tutorials on HackerEarth about [Linear Search](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/) and [Binary Search](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/), which I decided to go ahead and do, even though I had already written code for those in the MIT course. This led to a very, very long session of confusion and perseverance.
+  <br><br>
+  The Linear Search challenge was nice and easy, that is after I figured out how in the heck to work with their system. At first, I thought you just hard set the sample numbers into your code, then run it accordingly. Well, that turned out to be highly incorrect. Even though hitting the "Compile & Test" button passed because of having the proper values hard set, it turns out there are additional tests that happen once you hit "Submit". Now I was stumped on how I was actually supposed to put all these test values in, and unfortunately there are not a lot of tutorials out there on how to actually use this system. I eventually figured out each line in the input is actually a separate input, as if a user was entering each line when prompted to do so. Once I had that figured out, I passed every test for this tutorial.
+  <br><br>
+  The Binary Search challenge, on the other hand, was incredibly brutal. Instead of referring back to previous lesson notes and code, I wanted to do this from complete scratch, which turned out to be fairly interesting considering it has been a few weeks since the lesson. Normally when dealing with these in the classroom setting or tutorials, you just have a list of numbers already sorted and ready to go, or you have specific low and high values given to you to use for generating your own list. In this case, you have every value given to you via inputs, which are strings. This means you have to convert everything accordingly, which led to researching how to properly take a string of numbers and convert them into a list without having to write a separate function (after all, the goal is efficient time complexity). Needless to say, I was not expecting to have to map the split input into integers while also using list on the whole thing. Once that tested successfully, I then ran into issues with how I was actually writing the search code. Testing the sample input would work great, up until I hit the final element in the list. This led to me debugging like crazy, including walking through everything via pencil and paper, drawing visuals to fully comprehend the entire process. After spending way too much time on it, I finally figured out what I was doing wrong, although the solution did not make any sense to me at first. It was not until I went back to the pencil and paper with the solution to test it that I realized how it would work without rasising an error.
+  <br><br>
+  Although this was a great learning experience for the binary searching algorithm, it literally had zero effect on me getting closer to fully comprehending time complexity. I am very persistent (read stubborn), though, so my research shall continue tomorrow for the holy grail of time complexity explanations.
+
+**Link to work**
+* [HackerEarth Repo](https://github.com/StingzLD/HackerEarth)
+
 ### Day 66: July 23, 2021
 
 **Today's Progress**
