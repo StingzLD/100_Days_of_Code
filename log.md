@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 69: July 26, 2021
+
+**Today's Progress**
+* Started Meraki firmware script.
+
+**Thoughts**
+* One of my current goals at work is to automate a lot of Meraki configurations, whether it be for new installs or changes. I was given another task to create a firmware script, and I was handed another PowerShell script using the PSMeraki module that someone had started but did not get very far into. Before proceeding, I decided to check out the [Meraki DevNet](https://developer.cisco.com/meraki/) site to see what I could leverage in the API, since I will be doing a lot more with automating these processes. To my surprise, they are not using this PS module at all. Instead, their API is based entirely on their Python SDK. Nice! This is super exciting for me because, as you know, that is the exact language I am trying to master right now. Could this opportunity have been any better?! Needless to say, I spent a lot of time of going through their modules, then playing around with the API to try a bunch of different stuff out. Since my test scripts are using private information, you will not be able to see what I have been playing around with. However, once I have official builds out (the scripts will be agnostic), they will be posted to a public repo.
+
+**Link to work**
+* [Private Meraki Repo](https://github.com/StingzLD/PSMeraki_Scripts)
+
 ### Day 68: July 25, 2021
 
 **Today's Progress**
