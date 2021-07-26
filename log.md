@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 68: July 25, 2021
+
+**Today's Progress**
+* Further explored logarithmic time complexity.
+
+**Thoughts**
+* Although there was not actually any code written today, I feel like what I have learned today was beneficial enough to count towards a day of coding, unlike previous days where I spent it only researching. Why? Mainly because it was not just going through the motions. I was determined like crazy to fully understand logarithmic time complexity, and I absolutely succeeded today! So what was it that finally made this topic click for me? Relearning a math concept that I originally learned all the way back in middle school: the logarithm.
+  
+  Mind you, I have not taken any math course in over 15 years, so even parts of Algebra II have faded into the abyss by now. For this, I ended up on [Khan Academy](https://www.khanacademy.org/math/algebra2-2018/exponential-and-logarithmic-functions/introduction-to-logarithms/a/intro-to-logarithms), which did a fantastic job of walking through everything and testing your knowledge. With that knowledge fresh in my mind, I continued looking for that holy grail explanation, and I found it a few comments down in this [Stack Overflow](https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly) post. Specifically, it was [this image](https://i.stack.imgur.com/spHFh.png) that really brought everything home. It was not so much the binary tree in the image, as I have seen lots of those when describing the logarithmic time complexity, but it was the explanation below it describing what the tree looked like as an equation that finally made me go "AHA!!!"
+  
+  This combined knowledge of logarithms with the binary tree equation was exactly the explanation I was trying to find to make it all click. I cannot tell you how relieved I am to finally fully understand why the logarithmic time complexity is the way it is.
+
+**Link to work**
+* None
+
 ### Day 67: July 24, 2021
 
 **Today's Progress**
