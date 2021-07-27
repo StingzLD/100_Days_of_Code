@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 70: July 27, 2021
+
+**Today's Progress**
+* Continued Meraki API testing.
+
+**Thoughts**
+* Today was another successful day of playing with the Meraki API. Although I still have no actual script to show, my knowledge of various tools has grown immensely. By continuing with the Meraki API labs on the [Meraki DevNet](https://developer.cisco.com/meraki/) site, I was introduced to a few new tools that I have personally never used before like [Node.js](https://nodejs.org/en/), [Postman](https://www.postman.com/), [Docker](https://www.docker.com/), and [ngrok](https://ngrok.com/). Although I still have not touched most of them that much, I played around with Postman like crazy. It was so much, and I am going to be utilizing whenever I am playing with other APIs in the future. It is such a fantastic tool. Aside from all the playing, though, I did work on some more coding, which consisted of converting other scripts into a more universal format. I really like it when you can just plug and play snippets of code from one script to the next, as it makes the entire process so much easier. Like yesterday, though, everything is currently in a test state using private information, so changes have been made to the private repo.
+
+**Link to work**
+* [Private Meraki Repo](https://github.com/StingzLD/PSMeraki_Scripts)
+
 ### Day 69: July 26, 2021
 
 **Today's Progress**
