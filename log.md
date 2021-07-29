@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 71: July 28, 2021
+
+**Today's Progress**
+* Completed VMware SSH script.
+
+**Thoughts**
+* One of the immediate needs I saw at work was the ability to enable/disable SSH on all VMware hosts at a given location at anytime. Sure, you could manually go into every host's configuration and adjust it, but that would take forever, and I am all about automating as much as I possibly can. So what did I do? Naturally, I started down the automation road. The script itself went through a ton of iterations before the end of the day, and the result was something that I am fairly proud of, especially since we have a rather unique environment. My biggest concern with automation, as you could probably guess by now, is making scripts that are agnostic to the environment, so they can easily be reused wherever. This means not hard setting any variables to the environment, which also increases the security of the environment should the script be compromised. That being said, I am also a fan of not having to type in a bunch of variables every time I need to run a script, when I know that those values will never change for our environment. To solve this problem, I decided to do something a little unusual with my script, and that was to set System Environment Variables on the machine that will be running the code, then assigning those variables to variables used in the script. Of course, it is all documented within the script itself, but I thought this was a pretty clever way to get around the hard set variables in the script while also preventing more work for the user than is necessary.
+
+**Link to work**
+* [VMware PowerCLI Scripts](https://github.com/StingzLD/Powershell_Scripts/tree/master/VMware)
+
 ### Day 70: July 27, 2021
 
 **Today's Progress**
