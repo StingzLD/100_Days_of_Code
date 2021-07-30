@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 72: July 29, 2021
+
+**Today's Progress**
+* Updated Meraki firmware script.
+* Completed VMware single location SSH script.
+
+**Thoughts**
+* There really is not much to talk about today, as I just continued working on the Meraki firmware script, as well as added a new VMware script to the mix for SSH. This basically takes the previous enable/disable SSH scripts I wrote and updated them to be all in one. I also put the commands inside of functions to be called. Although this really has no impact when running the script, as each function will only be ran once, I did this in preparation for the upcoming script that will use the same base code to run against multiple locations. I am still unsure exactly how that script is going to look, but I guess I will find our tomorrow.
+
+**Link to work**
+* [Private Meraki Repo](https://github.com/StingzLD/PSMeraki_Scripts)
+* [VMware PowerCLI Scripts](https://github.com/StingzLD/Powershell_Scripts/tree/master/VMware)
+
 ### Day 71: July 28, 2021
 
 **Today's Progress**
