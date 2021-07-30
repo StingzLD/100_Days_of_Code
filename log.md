@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 73: July 30, 2021
+
+**Today's Progress**
+* Completed VMware multi-location SSH script.
+
+**Thoughts**
+* Well, I have to admit. I did not think I was going to take this script as far as I did. Although the script was technically complete after only working on it for a little bit, it was not complete enough to my liking. In fact, even the single location was not super great, so I may go back and edit it later. Regardless, I certainly went all out with this script. It is full of error handling, console text formatting, and it is designed in such a way that I can reuse this script for literally anything I need to run against the VMware vCenter appliances. All that is needed to do so is to update the main functions with the necessary code, and it is ready to go. I have to say that I am fairly proud about this one. The only thing that would make it better is to set the location of the files as System Environment Variables (like how they are already being used for other private variables), scrape data from both our wiki and vCenter servers to ensure the locations lists are fully up to date, then provide an answer file to the user inputs in the script for full automation. Maybe I will play with that later to test it out.
+
+**Link to work**
+* [VMware PowerCLI Scripts](https://github.com/StingzLD/Powershell_Scripts/tree/master/VMware)
+
 ### Day 72: July 29, 2021
 
 **Today's Progress**
