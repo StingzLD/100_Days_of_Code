@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 74: July 31, 2021
+
+**Today's Progress**
+* Completed the Final Exam of the [MIT Course 6.00.1x](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+
+**Thoughts**
+* What a way to end a class! I pass my final exam with a 97%, leaving me with an overall grade of 99% for the entire class! I have to admit, though, that I am really peeved because two of the multiple choice questions on the final were actually wrong (I verified the answers from multiple sources, including the actual lecture slides, course study guide, and textbook, after submitting the exam). At the end of the day, those were only worth one point each, but it still really bugs me that it says I got them wrong, when I in fact did not. Nonetheless, I GOT A 99% ON MY FIRST MIT COURSE!!!!!! Super freaking exciting!!! I cannot wait until October for my next course to start!
+
+**Link to work**
+* [Private Repo for Classwork](https://github.com/StingzLD/MITx/tree/main/6.00.1x/Unit%207%20-%20Plotting)
+
 ### Day 73: July 30, 2021
 
 **Today's Progress**
