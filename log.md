@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 76: August 2, 2021
+
+**Today's Progress**
+* Updated VMware SSH script.
+
+**Thoughts**
+* It seems there is almost always something else you can do to improve upon a script, and this was no exception. I decided to add some error handling to catch credential issues, set the script up with parameters, so certain user input prompts could be avoided, updated the code to utilize those new parameters, cleaned up some repeated code with functions, update some output color formatting, and found a missing piece of code that would have been a huge issue when running the script live instead of against my test output.
+
++ Overall, I am very happy with how far along the script has come, especially with how modular I have created. I already separated all of the core code out into a template file, so the only thing that needs to be touched are adding helper functions in, then using those in the two location functions. The only major piece of this script left to do, which I was not even thinking about until someone else brought it up, was to have it auto-log the output for auditing purposes. I started messing with it, but the file is not outputting everything I am seeing in the terminal, and making it do so takes away all visibility in the terminal, so I am going to have to find a way to balance all of that out tomorrow.
+
+**Link to work**
+* [VMware PowerCLI Scripts](https://github.com/StingzLD/Powershell_Scripts/tree/master/VMware)
+
 ### Day 75: August 1, 2021
 
 **Today's Progress**
