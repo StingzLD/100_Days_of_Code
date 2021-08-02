@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 75: August 1, 2021
+
+**Today's Progress**
+* Completed the Asymptotic Notation lessons in CS102 of the [Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+
+**Thoughts**
+* After learning about algorithm time complexity in the MIT course, and taking a while to fully grasp the logarithmic part, it was nice to have this be my first lesson back on Codecademy. This allowed me to further practice the only part that I had trouble with in the class, which was definitely good for me. It looks like I might be seeing more of it in the near future, too, as the majority of the CS102 lessons that remain involve different algorithms.
+
+**Link to work**
+* [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
+
 ### Day 74: July 31, 2021
 
 **Today's Progress**
@@ -397,7 +408,7 @@ This was an incredibly busy week and a half between the wife being out of town f
 
 **Thoughts**
 * As expected, the Recursion Code Challenges were not much different than the actual exercises, but that is okay. It was more practice, and the more you practice, the more familiar you will be with it.
-* Asymptotic Notation is something that will ve pretty useful in the actual designing of programs, and it is something that I have never really taken into consideration with other programming I have done, including robotics. I have always had programs that ran fast enough to where there was no noticeable lag in them, so it was never something I really thought about. The only limitation I have ever really come up against was creating code that would fit onto a certain chip, so efficient code was still necessary, but it was a different kind of efficiency: size, not operations.
+* Asymptotic Notation is something that will be pretty useful in the actual designing of programs, and it is something that I have never really taken into consideration with other programming I have done, including robotics. I have always had programs that ran fast enough to where there was no noticeable lag in them, so it was never something I really thought about. The only limitation I have ever really come up against was creating code that would fit onto a certain chip, so efficient code was still necessary, but it was a different kind of efficiency: size, not operations.
 
 **Link to work**
 * [CS102 Repo](https://github.com/StingzLD/Codecademy/tree/master/Computer_Science_Career_Path/CS102)
