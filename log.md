@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 77: August 3, 2021
+
+**Today's Progress**
+* Started learning about [REST APIs](https://realpython.com/api-integration-in-python/).
+
+**Thoughts**
+* So far, REST APIs seem pretty straightforward. I have only really touched the basics, though, so we will see what the rest of this lesson has to offer. Up to this point, though, it has given me a pretty good understanding of how they work at the base level, which will be useful when working with/creating my own APIs.
+
+**Link to work**
+* [Real Python REST API Repo](https://github.com/StingzLD/Real_Python/tree/main/Python_and_REST_APIs)
+
 ### Day 76: August 2, 2021
 
 **Today's Progress**
