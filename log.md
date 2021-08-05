@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day xx.5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 78: August 4, 2021
+
+**Today's Progress**
+* Completed Vmware SSH script.
+
+**Thoughts**
+* Just when you think you are done, there is always something else to add. Today, that something was verbose logging. I decided that creating just a basic log was not very useful, so I decided to make it fairly verbose for the type of script that it is. It provides the normal feedback that is provided to the console, as well as additional connection info to track who is actually logging into the servers and the full error details, should an error actually be present. The only other thing I may add is pulling the IP of the local machine it is run on and external IP of the network the machine lives on. That will provide plenty of details for auditing purposes, should the need ever arise.
+
+**Link to work**
+* [VMware PowerCLI Scripts](https://github.com/StingzLD/Powershell_Scripts/tree/master/VMware)
+
 ### Day 77: August 3, 2021
 
 **Today's Progress**
